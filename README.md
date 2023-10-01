@@ -1,7 +1,7 @@
 # Bootstrap Dev Environment
 
-![GitHub License](https://img.shields.io/github/license/diligasi/bootstrap-dev-env)
-![GitHub last commit](https://img.shields.io/github/last-commit/diligasi/bootstrap-dev-env)
+![GitHub License](https://img.shields.io/github/license/diligasi/bootstrap-env-dev)
+![GitHub last commit](https://img.shields.io/github/last-commit/diligasi/bootstrap-env-dev)
 
 This is a script to quickly set up a development environment on a Debian-based system. It installs essential packages and tools commonly used by developers.
 
@@ -25,7 +25,7 @@ This is a script to quickly set up a development environment on a Debian-based s
 If you prefer not to clone the repository, you can run the script remotely using curl:
 
    ```shell
-   curl -sSL https://raw.githubusercontent.com/diligasi/bootstrap-dev-env/main/bootstrap_dev_env.sh | sh
+   curl -sSL https://raw.githubusercontent.com/diligasi/bootstrap-env-dev/main/bootstrap_dev_env.sh | sh
    ```
 
 ### Method 2: Clone the Repository
@@ -69,6 +69,6 @@ If you prefer not to clone the repository, you can run the script remotely using
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
 
-##Acknowledgments
+## Acknowledgments
 - This script is inspired by the need for an easy way to set up a development environment quickly.
 - Feel free to contribute, open issues, or provide feedback to improve this script!
