@@ -25,7 +25,7 @@ This is a script to quickly set up a development environment on a Debian-based s
 If you prefer not to clone the repository, you can run the script remotely using curl:
 
    ```shell
-   curl -sSL https://raw.githubusercontent.com/diligasi/bootstrap-env-dev/main/bootstrap_dev_env.sh | sh
+   curl -sSL https://raw.githubusercontent.com/diligasi/bootstrap-env-dev/main/bootstrap_dev_env.sh | bash
    ```
 
 ### Method 2: Clone the Repository
