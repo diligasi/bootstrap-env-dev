@@ -4,7 +4,7 @@
 # Description: Setup script for a development environment.
 
 # Define an array with package names for dependencies
-dependencies=("autoconf" "m4" "patch" "build-essential" "curl" "git" "rustc" "libssl-dev" "libreadline-dev" "libyaml-dev" "libreadline6-dev" "zlib1g-dev" "libgmp-dev" "libncurses5-dev" "libwxgtk3.2-dev" "libwxgtk-webview3.2-dev" "libgl1-mesa-dev" "libglu1-mesa-dev" "libpng-dev" "libssh-dev" "unixodbc-dev" "xsltproc" "fop" "libxml2-utils" "libncurses-dev" "openjdk-17-jdk" "libffi-dev" "libgdbm6" "libgdbm-dev" "libdb-dev" "uuid-dev" "unzip" "exa" "zsh" "zsh-antigen" "wget" "lsb-release" "gpg")
+dependencies=("autoconf" "m4" "patch" "build-essential" "curl" "git" "rustc" "libssl-dev" "libreadline-dev" "libyaml-dev" "libreadline6-dev" "zlib1g-dev" "libgmp-dev" "libncurses5-dev" "libwxgtk3.2-dev" "libwxgtk-webview3.2-dev" "libgl1-mesa-dev" "libglu1-mesa-dev" "libpng-dev" "libssh-dev" "unixodbc-dev" "xsltproc" "fop" "libxml2-utils" "libncurses-dev" "openjdk-17-jdk" "libffi-dev" "libgdbm6" "libgdbm-dev" "libdb-dev" "uuid-dev" "unzip" "exa" "zsh" "zsh-antigen" "wget" "lsb-release" "gpg" "libpq-dev")
 
 # Function to display a progress message
 progress_message() {
